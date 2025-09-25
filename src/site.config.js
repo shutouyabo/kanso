@@ -1,6 +1,6 @@
 module.exports = {
 	title: {
-		"zh-CN": "Rene Wang 的个人网站",
+		"zh-CN": "Bin的个人网站",
 		"en-US": "Rene's Official Website",
 	},
 	description: {
@@ -9,9 +9,9 @@ module.exports = {
 		"en-US":
 			"My experience about web, AI, iOS, game development, 3D art, start-up, and my life journal.",
 	},
-	root: "https://rene.wang",
+	root: "https://blog.wangbin.run",
 	keywords: [
-		"Rene Wang",
+		"Wang Bin",
 		"江村暮的博客",
 		"RiverTwilight",
 		"过气码农",
@@ -40,7 +40,7 @@ module.exports = {
 			{
 				title: "关于作者",
 				content:
-					"00 后 M，INFP，自由的创造者，不要叫我前端程序员/设计师/游戏工程师。🌍 中英日法粤，喜欢代码、读书、大自然。欢迎来交个朋友。",
+					"85 后，自由的创造者。🌍喜欢代码、读书、大自然。欢迎来交个朋友。",
 			},
 		],
 	},
