@@ -1,4 +1,4 @@
 module.exports = {
-	name: "读书
-	description: "读书
+	name: "读书",
+	description: "读书",
 };
