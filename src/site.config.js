@@ -34,7 +34,7 @@ module.exports = {
 		name: "RiverTwilight",
 		twitter: "https://twitter.com/rea1DonandTrump",
 		email: "contact@rene.wang",
-		github: "https://github.com/RiverTwilight",
+		github: "https://github.com/",
 		pixiv: "https://www.pixiv.net/en/users/35572742",
 		intro: [
 			{
